@@ -3,7 +3,7 @@ import profile from "../assets/profile.jpeg";
 
 function HomePage() {
   return (
-    <div className="px-10 py-2">
+    <div className="px-2 py-2">
       <img
         src={profile}
         alt="Arpit Sharma"
