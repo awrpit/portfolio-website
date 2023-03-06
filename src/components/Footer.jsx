@@ -21,31 +21,31 @@ function Footer() {
           rel="noreferrer"
         >
           <FontAwesomeIcon
-            className="h-7 text-zinc-800 hover:text-zinc-700 p-3"
+            className="h-7 text-zinc-800 hover:text-blue-500 p-3"
             icon={faEnvelope}
           />
         </a>
         <a href="https://www.linkedin.com/in/arpitsh" target="_blank">
           <FontAwesomeIcon
-            className="h-7 text-zinc-800 hover:text-zinc-700 p-3"
+            className="h-7 text-zinc-800 hover:text-blue-500 p-3"
             icon={faLinkedin}
           />
         </a>
         <a href="https://github.com/awrpit">
           <FontAwesomeIcon
-            className="h-7 text-zinc-800 hover:text-zinc-700 p-3"
+            className="h-7 text-zinc-800 hover:text-blue-500 p-3"
             icon={faGithub}
           />
         </a>
         <a href="https://www.twitter.com/awrpit" target="_blank">
           <FontAwesomeIcon
-            className="h-7 text-zinc-800 hover:text-zinc-700 p-3"
+            className="h-7 text-zinc-800 hover:text-blue-500 p-3"
             icon={faTwitter}
           />
         </a>
         <a href="https://www.instagram.com/in/awrpit" target="_blank">
           <FontAwesomeIcon
-            className="h-7 text-zinc-800 hover:text-zinc-700 p-3"
+            className="h-7 text-zinc-800 hover:text-blue-500 p-3"
             icon={faInstagram}
           />
         </a>
@@ -54,12 +54,12 @@ function Footer() {
           target="_blank"
         >
           <FontAwesomeIcon
-            className="h-7 text-zinc-800 hover:text-zinc-700 p-3"
+            className="h-7 text-zinc-800 hover:text-blue-500 p-3"
             icon={faSpotify}
           />{" "}
         </a>
       </div>
-      <p className="text-center text-slate-600 text-sm p-10 font-light">
+      <p className="text-center text-slate-400 text-sm p-10 font-light">
         {date.getFullYear()} © Arpit Sharma
       </p>
     </div>

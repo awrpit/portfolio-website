@@ -7,10 +7,7 @@ function Header() {
         </a>
         <ul className="flex flex-column">
           <li className="text-l font-bold px-4  hover:text-slate-700">
-            <a href="/about"> About </a>
-          </li>
-          <li className="text-l font-bold px-4  hover:text-slate-700">
-            <a href="/resume"> Resume </a>
+            <a href="/"> Resume </a>
           </li>
           <li className="text-l font-bold px-4 hover:text-slate-700 ">
             <a href="/projects"> Projects</a>
