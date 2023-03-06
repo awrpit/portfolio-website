@@ -53,6 +53,7 @@ function HomePage() {
         >
           arpitsharmaofficialll@gmail.com
         </a>
+        <br> </br>
         I'm always excited to meet new people and explore new opportunities.
       </p>
       <div>
