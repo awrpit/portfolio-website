@@ -45,15 +45,16 @@ function HomePage() {
       <p className="text-xl px-4 py-2">
         If you've got a crazy idea to discuss or just want to say hi, I'd love
         to hear from you! Shoot me an email at{" "}
-        <a
-          href="mailto:arpitsharmaofficialll@gmail.com"
-          target="_blank"
-          rel="noreferrer"
-          className="text-blue-500 underline p-1"
-        >
-          arpitsharmaofficialll@gmail.com
-        </a>
-        <br> </br>
+        <span>
+          <a
+            href="mailto:arpitsharmaofficialll@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+            className="text-blue-500 underline"
+          >
+            arpitsharmaofficialll@gmail.com
+          </a>
+        </span>
         I'm always excited to meet new people and explore new opportunities.
       </p>
       <div>
