@@ -10,7 +10,10 @@ function Header() {
         </a>
         <ul className="flex flex-column">
           <li className="text-l font-bold px-4  hover:text-slate-700 bg-gradient-to-bl from-gray-200 via-gray-400 to-gray-600 text-transparent bg-clip-text ">
-            <a href="/"> Resume </a>
+            <a href="https://docs.google.com/document/d/1ffzcoFNsQhsxocWCMbXsclgL32T7L3F0/edit?usp=sharing&ouid=117604545005279299637&rtpof=true&sd=true">
+              {" "}
+              Resume{" "}
+            </a>
           </li>
           <li className="text-l font-bold px-4 hover:text-slate-700 bg-gradient-to-bl from-gray-200 via-gray-400 to-gray-600 text-transparent bg-clip-text ">
             <a href="/projects"> Projects</a>

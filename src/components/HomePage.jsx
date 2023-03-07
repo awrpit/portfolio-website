@@ -64,7 +64,11 @@ function HomePage() {
           </a>
         </button>
         <button className="text-2xl font-bold bg-gradient-to-l from-indigo-300 to-purple-400 text-transparent bg-clip-text p-4 rounded-md">
-          <a href="/" target="_blank" rel="noreferrer">
+          <a
+            href="https://docs.google.com/document/d/1ffzcoFNsQhsxocWCMbXsclgL32T7L3F0/edit?usp=sharing&ouid=117604545005279299637&rtpof=true&sd=true"
+            target="_blank"
+            rel="noreferrer"
+          >
             Check my Resume
           </a>
         </button>
