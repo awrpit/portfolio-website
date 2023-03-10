@@ -10,7 +10,7 @@ const projects = [
     title: "CoverWise",
     description:
       "Helping people write better cover letters with the help of AI. Built with GPT-3.",
-    url: "https://readingbeats.onrender.com/",
+    url: "https://cvbuilderai.vercel.app/",
   },
 
   {
