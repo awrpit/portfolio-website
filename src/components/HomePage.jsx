@@ -22,9 +22,6 @@ function HomePage() {
         startups, books everything else in between.{" "}
       </p>
       <p className="text-xl px-4 py-2">
-        I'm currently on the lookout for an internship
-        <i> (read internship dedo) </i> as a full-stack/frontend developer.
-        (Seriously though, if you know of any openings, check out my resume!)
         <p>
           In the past, I've worked as a community wizard @
           <a
